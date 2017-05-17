@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PenAndPaper.PcbDoc]
+   Generated File[PenAndPaper.TXT]
+   Generated File[PenAndPaper.LDP]
+   Generated File[PenAndPaper.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:13:36 PM On 5/16/2017
